@@ -1,5 +1,5 @@
 {
-    "name": "signifly/laravel-domain-commands",
+    "name": "aircas/laravel-domain-commands",
     "description": "Artisan commands to Laravel apps that utilizes Domain Driven Design.",
     "homepage": "https://github.com/signifly/laravel-domain-commands",
     "license": "MIT",
